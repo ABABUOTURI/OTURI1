@@ -73,6 +73,7 @@ nav ul li a:hover{
     overflow: hidden;
     background-image: url("images/web2.jpg");
     background-repeat: no-repeat;
+    background-size: cover;
 }
 .cols{
     width: 50%;
@@ -280,6 +281,7 @@ button:hover{
 }
 .price{
     background-image: url(images/web39.jpg);
+    background-size: cover;
 }
 .price h2{
     text-align: center;
