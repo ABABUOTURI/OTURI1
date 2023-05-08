@@ -265,6 +265,7 @@ button:hover{
     padding: 15px 35px;
     margin: 30px;
     background-image: url(images/web48.jpg);
+    background-size:cover;
 }
 .service h2{
     color: white;
@@ -432,6 +433,7 @@ h3{
 }
 .column{
     background-image: url(images/web34.jpg);
+    background-size: cover;
     box-shadow: 5px 5px 10px 5px green;
     display: flex;
     flex-direction: column;
@@ -448,6 +450,7 @@ h3{
 }
 #column{
     background-image: url(images/web20.jpg);
+    background-size: cover;
     box-shadow: 5px 5px 10px 5px green;
     display: flex;
     flex-direction: column;
@@ -557,6 +560,7 @@ h3{
 .skills{
     flex-basis:25%;
     background-image: url(images/web26.jpg);
+    background-size: cover;
     border-radius:10px;
     margin-bottom: 5%;
     padding: 10px ;
@@ -675,6 +679,7 @@ form button{
 }
 .contact-us{
     background-image: url(images/web1.jpg);
+    background-size: cover;
 }
 
 /*------------------------------contact end-----------------------------------------------------*/
@@ -685,6 +690,7 @@ form button{
 }
 .footer{
     background-image: url(images/web7.jpg);
+    background-size: cover;
 }
 /*------------------------------footer end-----------------------------------------------------*/
 
