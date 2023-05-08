@@ -72,6 +72,7 @@ nav ul li a:hover{
     padding: 0 10%;
     overflow: hidden;
     background-image: url("images/web2.jpg");
+    background-repeat: no-repeat;
 }
 .cols{
     width: 50%;
