@@ -687,6 +687,7 @@ form button{
 .footer p{
     text-align: center;
     color: gold;
+    font-size:10px;
 }
 .footer{
     background-image: url(images/web7.jpg);
@@ -712,4 +713,22 @@ form button{
         display: flex;
         flex-direction: row;
     }
+    nav ul li a{
+  font-size: 10px;
+}
+    .topline{
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+    .topline::after{
+    height: 2px;
+    width: 35px;
+    bottom: 5px;
+}
+h1{
+    font-size: 16px;
+    font-weight: 100;
+}
+    p{
+        font-size:16px;
 }
