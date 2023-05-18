@@ -112,7 +112,7 @@ h1{
 p{
     display: block;
     width: 90%;
-    font-size: 1.2em;
+    font-size: 16px;
     color:  #ddd;
 }
 .btns{
@@ -199,16 +199,19 @@ button:hover{
 
 .about-text h2{
     text-align: center;
+    font-size:18px;
 }
 .about-text p{
     text-align: center;
     margin-right:30px;
+    font-size:16px;
 }
 .about-text img{
    border-radius: 60%;
 }
 .about-text h5{
     text-align: center;
+    font-size:18px;
 }
 
 @keyframes animateUser{
@@ -612,15 +615,19 @@ h3{
 /*------------------------------blog start-----------------------------------------------------*/
 .blog h2{
     text-align: center;
+    font-size:25px;
 }
 .blog p{
     text-align: center;
+    font-size:16px;
 }
 .blog h4{
     text-align: center;
+    font-size:18px
 }
 .blog h2{
     text-align: center;
+    font-size:18px;
 }
 /*------------------------------blog end-----------------------------------------------------*/
 /*------------------------------contact start-----------------------------------------------------*/
@@ -654,6 +661,7 @@ form h3{
     color: #140536;
     font-weight: bold;
     margin-bottom: 20px;
+    font-size:16px;
 }
 form input,
 form textarea{
@@ -731,4 +739,8 @@ h1{
 }
     p{
         font-size:16px;
+}
+    .service h2{
+    font-size: 18px;
+}
 }
